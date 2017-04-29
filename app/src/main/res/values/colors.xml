@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF710F00</color>
+    <color name="colorPrimaryDark">#020443</color>
+    <color name="colorAccent">#ffe940</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whiteFaded">#E8FFFFFF</color>
+    <color name="FSQStrawberry">#380009</color>
+    <color name="FSQMacCheese">#710f00</color>
+    <color name="FSQOrange">#ff7300</color>
+    <color name="FSQBanana">#FFC800</color>
+    <color name="FSQLime">#C5DE35</color>
+    <color name="FSQGuacamole">#73CF42</color>
+    <color name="FSQKale">#049bff</color>
+</resources>
